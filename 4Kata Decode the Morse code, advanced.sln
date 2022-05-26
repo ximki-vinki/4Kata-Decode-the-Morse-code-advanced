@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Kata Decode the Morse code, advanced", "4Kata Decode the Morse code, advanced\4Kata Decode the Morse code, advanced.csproj", "{756307AB-4DD8-4F6F-8508-4EAA474199EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756307AB-4DD8-4F6F-8508-4EAA474199EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756307AB-4DD8-4F6F-8508-4EAA474199EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756307AB-4DD8-4F6F-8508-4EAA474199EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756307AB-4DD8-4F6F-8508-4EAA474199EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A88CCB-359B-449D-AC92-519CC2B287A4}
+	EndGlobalSection
+EndGlobal
